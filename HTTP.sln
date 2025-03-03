@@ -5,9 +5,11 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTP", "HTTP\HTTP.csproj", "{2C6F0D0F-AF49-4917-9B20-0288E00DB52D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPStatusCode", "HTTPStatusCode\HTTPStatusCode.csproj", "{72D18BB6-2BCA-43A8-80A1-BA6D0EAC7AF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTPStatusCode", "HTTPStatusCode\HTTPStatusCode.csproj", "{72D18BB6-2BCA-43A8-80A1-BA6D0EAC7AF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP_Response_Header", "HTTP_Response_Header\HTTP_Response_Header.csproj", "{E5EC0CB5-5A75-4892-A51E-8F81D8ACC0B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTP_Response_Header", "HTTP_Response_Header\HTTP_Response_Header.csproj", "{E5EC0CB5-5A75-4892-A51E-8F81D8ACC0B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP_Request", "HTTP_Request\HTTP_Request.csproj", "{D1BDEFC4-55E1-496B-B460-4915EA8F4A29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E5EC0CB5-5A75-4892-A51E-8F81D8ACC0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5EC0CB5-5A75-4892-A51E-8F81D8ACC0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5EC0CB5-5A75-4892-A51E-8F81D8ACC0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BDEFC4-55E1-496B-B460-4915EA8F4A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BDEFC4-55E1-496B-B460-4915EA8F4A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BDEFC4-55E1-496B-B460-4915EA8F4A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BDEFC4-55E1-496B-B460-4915EA8F4A29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
