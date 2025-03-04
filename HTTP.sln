@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTPStatusCode", "HTTPStatu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTP_Response_Header", "HTTP_Response_Header\HTTP_Response_Header.csproj", "{E5EC0CB5-5A75-4892-A51E-8F81D8ACC0B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP_Request", "HTTP_Request\HTTP_Request.csproj", "{D1BDEFC4-55E1-496B-B460-4915EA8F4A29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTP_Request", "HTTP_Request\HTTP_Request.csproj", "{D1BDEFC4-55E1-496B-B460-4915EA8F4A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Query_String", "Query_String\Query_String.csproj", "{5551039C-1F17-4441-AA44-AE83FBB624B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP_Request_Headers", "HTTP_Request_Headers\HTTP_Request_Headers.csproj", "{0CFD5555-47FD-421A-9C97-1303E3DDDC00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{D1BDEFC4-55E1-496B-B460-4915EA8F4A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1BDEFC4-55E1-496B-B460-4915EA8F4A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1BDEFC4-55E1-496B-B460-4915EA8F4A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5551039C-1F17-4441-AA44-AE83FBB624B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5551039C-1F17-4441-AA44-AE83FBB624B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5551039C-1F17-4441-AA44-AE83FBB624B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5551039C-1F17-4441-AA44-AE83FBB624B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFD5555-47FD-421A-9C97-1303E3DDDC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFD5555-47FD-421A-9C97-1303E3DDDC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFD5555-47FD-421A-9C97-1303E3DDDC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFD5555-47FD-421A-9C97-1303E3DDDC00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
